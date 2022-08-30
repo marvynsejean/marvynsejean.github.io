@@ -44,6 +44,14 @@ footer, footer p {
     color: white !important;
 }
 
+.footer--links {
+    margin-top: 10px;
+}
+
+.footer--links li {
+    padding: 5px 0;
+}
+
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
@@ -685,7 +693,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
