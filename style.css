@@ -39,6 +39,11 @@ a:hover {
     position: relative;
 }
 
+footer, footer p {
+    font-size: 18px;
+    color: white !important;
+}
+
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
