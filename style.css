@@ -791,7 +791,16 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFF!important;
+}
+
+.contact-page-title {
+    padding: 10px 10px 30px 10px;
+}
+
+.text-center {
+    justify-content: center;
+    align-items: center;
 }
 
 .btn-atomic-tangerine {
