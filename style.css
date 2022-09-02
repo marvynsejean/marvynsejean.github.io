@@ -1051,6 +1051,13 @@ h4 {
         width: 180px;
         height: 320px;
     }
+    .social {
+        display: flex;
+        justify-content: space-between;
+    }
+    .portfolio-thumb {
+        margin: auto;
+    }
 }
 
 @media (max-width: 400px) {
